@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Andrés Rubio Proaño — HPC and AI Performance Engineering</title>
+  <desc id="desc">Orange compute tiles on a dark aubergine background, matching andresrubiop.com.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#2c001e"/><stop offset="1" stop-color="#0c0b10"/></linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7848"/><stop offset="1" stop-color="#e95420"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#f5f2f4" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <g fill="url(#tile)">
+    <rect x="65" y="74" width="42" height="42" rx="7" opacity=".35"/><rect x="119" y="74" width="42" height="42" rx="7" opacity=".65"/><rect x="173" y="74" width="42" height="42" rx="7"/>
+    <rect x="65" y="128" width="42" height="42" rx="7" opacity=".65"/><rect x="119" y="128" width="42" height="42" rx="7"/><rect x="173" y="128" width="42" height="42" rx="7" opacity=".65"/>
+    <rect x="65" y="182" width="42" height="42" rx="7"/><rect x="119" y="182" width="42" height="42" rx="7" opacity=".65"/><rect x="173" y="182" width="42" height="42" rx="7" opacity=".35"/>
+  </g>
+  <path d="M239 97h35m-35 54h50m-50 54h35" stroke="#e95420" stroke-width="2" opacity=".5"/>
+  <g font-family="DejaVu Sans,Arial,sans-serif">
+    <text x="325" y="82" font-size="18" letter-spacing="3" fill="#ff7848">ANDRÉS RUBIO PROAÑO</text>
+    <text x="322" y="145" font-size="49" font-weight="700" fill="#f5f2f4">HPC &amp; AI</text>
+    <text x="325" y="184" font-size="24" letter-spacing="2" fill="#f5f2f4">PERFORMANCE ENGINEERING</text>
+    <text x="325" y="225" font-size="17" fill="#c4b9c1">GPU · Memory systems · Local agents · Reproducible ML</text>
+    <text x="325" y="263" font-size="15" fill="#ff7848">andresrubiop.com</text>
+  </g>
+</svg>
