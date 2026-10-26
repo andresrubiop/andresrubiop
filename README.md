@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Andrés Rubio Proaño — HPC and AI Performance Engineering" width="100%">
+  <a href="https://andresrubiop.github.io/"><img src="assets/profile-header.svg" alt="Andrés Rubio Proaño — HPC and AI Performance Engineering" width="100%"></a>
 </p>
 
 I work on **high-performance computing, GPU and memory systems, and practical AI**. I hold a PhD in Computer Science from Université de Bordeaux, with research experience at **Inria** and **RIKEN R-CCS**. I currently teach and develop AI projects at Universidad Tecnológica Indoamérica in Ecuador.
 
 My focus is making systems measurable: how they use memory, how they behave under concurrency, how well models generalize, and what an agent is actually allowed to do.
 
-**[Portfolio & publications](https://www.andresrubiop.com) · [LinkedIn](https://www.linkedin.com/in/andresrubiop/) · [ORCID](https://orcid.org/0000-0003-1270-9140)**
+**[Explore my portfolio](https://andresrubiop.github.io/) · [Full CV & publications](https://www.andresrubiop.com) · [LinkedIn](https://www.linkedin.com/in/andresrubiop/) · [ORCID](https://orcid.org/0000-0003-1270-9140)**
 
 ### Selected engineering projects
 
