@@ -19,6 +19,7 @@ My focus is making systems measurable: how they use memory, how they behave unde
 
 ### Teaching systems by building them
 
+- **[Aula Virtual UTI](https://github.com/andresrubiop/aula-virtual-uti)** — a Claude Code and Codex skill for building bilingual ES/EN classrooms from syllabi and teaching materials, following the FSO architecture with embedded HTML presentations, Canvas export, optional NotebookLM videos and phased progress tracked in Markdown. **[Teacher guide (Spanish)](https://github.com/andresrubiop/aula-virtual-uti/blob/main/aula-virtual-uti/GUIA_DE_USO.md)** · **[Download the skill](https://github.com/andresrubiop/aula-virtual-uti/raw/refs/heads/main/dist/aula-virtual-uti.skill)**.
 - **[Operating Systems Lab](https://github.com/andresrubiop/fso-uti)** — interactive course in five languages, C laboratories and reproducible exercises. **[Open the course](https://andresrubiop.github.io/fso-uti/)**.
 - **[Machine Learning Labs](https://github.com/andresrubiop/miar0525-estudiantes)** — notebooks on learning algorithms, leakage, evaluation, fairness and explainability.
 
